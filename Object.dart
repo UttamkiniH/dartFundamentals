@@ -23,6 +23,13 @@ class ChickenBucket {
   var wing = 5;
 }
 
+//packet for sauce 
+class sauce {
+  var packet10ml = 10;
+  var packet20ml = 20;
+  
+}
+
 //change number of crisp and wing chicken here
 int changeOrder(changeCrisp, changeWing) {
   var p1 = ChickenBucket();
